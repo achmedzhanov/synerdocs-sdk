@@ -1,3 +1,6 @@
+
+Репозиторий переехал по адресу [https://github.com/Synerdocs/synerdocs-sdk/](https://github.com/Synerdocs/synerdocs-sdk/)
+
 # Synerdocs SDK
 Программный интерфейс сервиса обмена Synerdocs позволяет выполнять операции по приёму, отправке и обработке электронных документов.
 
